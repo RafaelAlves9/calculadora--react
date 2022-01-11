@@ -1,0 +1,14 @@
+.value{
+    background-color: rgba(0, 0, 0, 0);
+    padding: 0px 35px;
+    height: 100px;
+    font-size: 40px;
+    border-bottom: 1px solid #000;
+    color: #fff;
+    overflow: hidden;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    border: 1px solid #000;
+    border-radius: 10px 10px 0 0;
+}

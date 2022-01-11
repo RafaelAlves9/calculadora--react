@@ -1,0 +1,22 @@
+.square{
+    background-color: #fff;
+    border: 1px solid rgba(0, 0, 0, 0.466);
+    font-size: 25px;
+}
+.square:active{
+    background-color: rgba(255, 255, 255, 0.877);
+}
+.triple{
+    grid-column: span 3;
+    background-color: rgb(235, 235, 109);
+}
+.operation{
+    background: coral;
+    color: #fff;
+}
+.operation:active{
+    background: rgba(255, 127, 80, 0.795);
+}
+.double{
+    grid-column: span 2;
+}
